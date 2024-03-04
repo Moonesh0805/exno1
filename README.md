@@ -66,9 +66,6 @@ df.fillna({'GENDER':'FEMALE','NAME':'PRIYU','ADDRESS':'POONAMALEE','M1':98,'M2':
 ```
 ![image](https://github.com/Moonesh0805/exno1/assets/138849189/e2676988-2a63-46f8-9e23-068e0ea644c2)
      
-<hr><hr>
-
-<h3 align="center">IQR(Inter Quartile Range)</h3>
 ```py
 import pandas as pd
 ```
@@ -109,9 +106,7 @@ delid
 sns.boxplot(x='sepal_width',data=delid)
 ```
 ![image](https://github.com/Moonesh0805/exno1/assets/138849189/04b38063-f18e-489c-8391-0540950c4d78)
-<hr><hr>
 
-<h3 align="center">Z-Score</h3>
 ```py                            
 import matplotlib.pyplot as plt
 import pandas as pd
