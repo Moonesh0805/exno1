@@ -156,5 +156,4 @@ df1
 ![image](https://github.com/Moonesh0805/exno1/assets/138849189/a989a05c-df8a-45a8-9052-70c6d58361fe)
 
 # Result
-<br>
-### Hence the data was cleaned , outliers were detected and removed.
+ Hence the data was cleaned , outliers were detected and removed.
