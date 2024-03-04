@@ -20,8 +20,9 @@ STEP 5: Remove outliers using IQR
 
 STEP 6: Use zscore of to remove outliers
 
-# Coding and Output  
-<h3 align="center">Data Cleaning</h3>
+# Coding and Output 
+
+
 ```py
 import pandas as pd
 import numpy as np
@@ -158,7 +159,7 @@ df1 = df[z<3]
 df1
 ```
 ![image](https://github.com/Moonesh0805/exno1/assets/138849189/a989a05c-df8a-45a8-9052-70c6d58361fe)
-<hr>
+
 # Result
 <br>
 ### Hence the data was cleaned , outliers were detected and removed.
