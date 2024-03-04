@@ -22,5 +22,6 @@ STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
             <<include your coding and its corressponding output screen shots here>>
+https://colab.research.google.com/drive/10WI66z1Y6oY1syCaGz413YrunY4ukN8W?usp=sharing
 # Result
           <<include your Result here>>
